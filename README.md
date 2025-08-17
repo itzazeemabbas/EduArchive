@@ -2,4 +2,4 @@
 
 - Step to install
 
- git clone 
+ git clone https://github.com/itzazeemabbas/EduArchive.git
