@@ -6,7 +6,7 @@ import About from './pages/About'
 import Contact from './pages/Contact'
 import Upload from './pages/Upload'
 import Search from './pages/Search'
-import Courses from './pages/courses'
+import Courses from './pages/Courses'
 
 export default function App() {
   return (
